@@ -27,7 +27,7 @@ Installation
 
     Clone the repository or download the ZIP file.
 
-git clone https://github.com/Prodigy-InfoTech/Web-Development-Projects.git
+git clone https://github.com/sb109201/BMI-Calculator.git
 
     Open the project folder.
 
